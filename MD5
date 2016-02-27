@@ -1,0 +1,7 @@
+d8a63dc693d5ce4849b7deff62090b7b *DESCRIPTION
+9eb79ecaf6c8d3272c9e21607bb11c01 *NAMESPACE
+beea946ac08878a365de9fe6004a155f *R/onLoad.R
+67f7202f589cc8eac9eb837c306bd4b5 *inst/java/commons-math-2.1.jar
+972c3b8fb2cc26008cbceb01ff889ec4 *inst/java/junit-4.10.jar
+8fc4d4e0129244f9fd39650c5f30feb2 *inst/java/trove-3.0.3.jar
+8f1269bd778a10ad0895950c07aab503 *java/README
