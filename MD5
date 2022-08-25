@@ -1,8 +1,8 @@
-db8fa8ca016362516cc8b18dad58185f *DESCRIPTION
+34e0a49ec3ad303e5041e1cc4c35f8a0 *DESCRIPTION
 f20179bdcb453f13d824a5f4cf9d125c *NAMESPACE
 a82facbfe1f52791a45adf9f120af2bb *R/onLoad.R
 254aa326af53766cdd1b49fdb161c567 *inst/COPYRIGHTS
 67f7202f589cc8eac9eb837c306bd4b5 *inst/java/commons-math-2.1.jar
+aad8192ce0d0595e8f6348632412b533 *inst/java/fastutil-core-8.5.8.jar
 972c3b8fb2cc26008cbceb01ff889ec4 *inst/java/junit-4.10.jar
-8fc4d4e0129244f9fd39650c5f30feb2 *inst/java/trove-3.0.3.jar
 b2c6eb097bf3ab3ea171fe098573a90b *java/README
