@@ -1,8 +1,8 @@
-77cdc73695794802c11f633e42631d36 *DESCRIPTION
-f20179bdcb453f13d824a5f4cf9d125c *NAMESPACE
-a82facbfe1f52791a45adf9f120af2bb *R/onLoad.R
-2fb76a6ab8a3292ddd547dd9d7554464 *inst/COPYRIGHTS
+405c0479a97973bab291d23ef47387b5 *DESCRIPTION
+9eb79ecaf6c8d3272c9e21607bb11c01 *NAMESPACE
+beea946ac08878a365de9fe6004a155f *R/onLoad.R
+2a93e9221e47d1f43b3f06ec0ec65273 *inst/COPYRIGHTS
 67f7202f589cc8eac9eb837c306bd4b5 *inst/java/commons-math-2.1.jar
-aad8192ce0d0595e8f6348632412b533 *inst/java/fastutil-core-8.5.8.jar
+3193b4f6b46b3bc07b918bf79bf426c2 *inst/java/fastutil-core-8.5.18.jar
 8fc4d4e0129244f9fd39650c5f30feb2 *inst/java/trove-3.0.3.jar
-60ac113b97f5992940acf7e7894ae1ea *java/README
+1028e5b4fca49da42b0d918e3b11cef6 *java/README
